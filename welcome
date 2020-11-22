@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Bonjour à toute et à tous !</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+</head>
+<body><H1>Bienvenu sur ce projet !</H1>
+      <p> Ce site est la base d’un projet, appelé Lins Actualité Projet, où Lins actu.<br>
+C’est un projet visant à rendre l’information plus agréable et plus moralisante que l’actualité
+classique.
+      <p><br><br><br> Il s’agit d’un projet en cours de construction et mené à bien par un seul
+développeur passionné, ainsi, si le projet vous intéresse et que vous aimeriez participer à la 
+création d’un projet nouveau, merci de faire un don, en cliquant
+ <a href="https://paypal.com/paypalme/puedroba »>ICI</a>.
+</body>
+</html>
